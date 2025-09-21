@@ -1,5 +1,5 @@
 <?php
-
+//php artisan make:controlador nombreController
 namespace Tests\Unit\Services;
 
 use App\Services\ArtisanPersonalizado;
